@@ -55,8 +55,8 @@ Now that the array is in the correct order all of the following calls to `KPSDK_
 The next step of deobfuscating this script is coming up with a strategy to make the VM logic starting at line 1508 more readable.
 #
 
-Currently I'm not proud of the code I wrote for the deobfuscator so that will not be open sourced yet
+Currently I'm not proud of the code I wrote for the deobfuscator so that will not be open sourced yet.
 
-To deobfuscate the script I used AST manipulation which you can learn more about [here](https://0x31.sh/)
+To deobfuscate the script I used AST manipulation which you can learn more about [here](https://0x31.sh/).
 #
 Humphreyyyy#0088
